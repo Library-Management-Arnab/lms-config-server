@@ -9,3 +9,4 @@ For further reference, please consider the following sections:
 The following guides illustrate how to use some features concretely:
 
 * [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
+
